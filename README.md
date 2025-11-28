@@ -36,13 +36,7 @@ pip install pandas PyPDF2 pdfplumber openpyxl
 
 ## Installation
 
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/pdf-data-extraction.git
-cd pdf-data-extraction
-```
-
-2. Install required packages:
+1. Install required packages:
 ```bash
 pip install -r requirements.txt
 ```
